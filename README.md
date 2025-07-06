@@ -1,2 +1,2 @@
-#gunicorn filename:app
-بوت وتساب للسعوده
+#Start Command
+                        بوت وتساب للسعوده
