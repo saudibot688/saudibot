@@ -1,2 +1,2 @@
-# requirements.txt
+#gunicorn filename:app
 بوت وتساب للسعوده
