@@ -1,2 +1,2 @@
-# saudibot
+# requirements.txt
 بوت وتساب للسعوده
